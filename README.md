@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicacolombo
 - 👀 I’m currentily interested in Web Development
-- 🌱 I’m learning HTML, CSS e JavaScript
+- 🌱 I’m learning HTML, CSS, JavaScript and React
 - 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 How to reach me:
 <br>
