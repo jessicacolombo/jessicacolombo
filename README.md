@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicacolombo
 - 👀 I’m currentily interested in Web Development
-- 🌱 I’m learning React and Express + Node.JS
+- 🌱 I’m learning React, SQL and Express + Node.JS
 - 💞️ I’m looking to collaborate on FrontEnd Projects
 - 📫 How to reach me:
 <br>
