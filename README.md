@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jessicacolombo
 - 👀 I’m currentily interested in Web Development
-- 🌱 I’m learning React, SQL and Express + Node.JS
-- 💞️ I’m looking to collaborate on FrontEnd Projects
+- 🌱 I’m learning Python and Django
+- 💞️ I’m looking to collaborate on FrontEnd, Backend and Fullstack Projects
 - 📫 How to reach me:
 <br>
 linkedin - www.linkedin.com/in/jessicacolombo-
