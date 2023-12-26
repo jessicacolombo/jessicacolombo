@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicacolombo
 - 👀 I’m currentily interested in Web Development
-- 🌱 I’m learning Python and Django
+- 🌱 I’m learning PHP and JavaScript
 - 💞️ I’m looking to collaborate on FrontEnd, Backend and Fullstack Projects
 - 📫 How to reach me:
 <br>
